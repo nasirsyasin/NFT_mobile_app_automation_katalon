@@ -1,10 +1,10 @@
-# mobapp Mobile App Automation - Katalon Project
+# NFT Mobile App Automation - Katalon Project
 
 ## Project Overview
 
-This is a **Katalon test automation project** for the mobapp mobile application. The project uses Katalon Studio to automate test cases for quality assurance and continuous testing of the mobapp mobile app.
+This is a **Katalon test automation project** for the NFT mobile application. The project uses Katalon Studio to automate test cases for quality assurance and continuous testing of the NFT mobile app.
 
-**Project Name:** katalon_mobapp_project  
+**Project Name:** katalon_NFT_project  
 **Project ID:** f08f49fd-a617-4951-9878-6e807e7b0eb7  
 **Katalon Version:** 5.9.0+  
 **Project Type:** Generic
@@ -17,7 +17,7 @@ This is a **Katalon test automation project** for the mobapp mobile application.
 
 | File | Purpose |
 |------|---------|
-| `katalon_mobapp_project.prj` | Main Katalon project configuration file (XML) |
+| `katalon_NFT_project.prj` | Main Katalon project configuration file (XML) |
 | `console.properties` | Console configuration and settings |
 
 ### Directory Structure
@@ -75,7 +75,7 @@ Git repository for version control and change tracking
 
 ### Custom Keywords
 - Defined in `Libs/CustomKeywords.groovy`
-- Provides reusable automation logic specific to the mobapp app
+- Provides reusable automation logic specific to the NFT app
 - Can be called from test cases for better maintainability
 
 ### Global Variables
