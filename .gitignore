@@ -1,0 +1,23 @@
+# Local credentials and machine-specific configuration
+console.properties
+*.local.properties
+.env
+.env.*
+!.env.example
+
+# Katalon-generated output
+Reports/
+Logs/
+Test Results/
+
+# Compiled and temporary files
+bin/
+.classpath
+.project
+.settings/
+.DS_Store
+*.log
+
+# IDE metadata
+.vscode/
+.idea/

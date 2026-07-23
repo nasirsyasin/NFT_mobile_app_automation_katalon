@@ -1,0 +1,20 @@
+# Copy this file to console.properties for local execution.
+# Keep credentials and environment-specific values out of version control.
+
+remoteWebDriverType=Selenium
+remoteWebDriverUrl=
+kobitonDeviceId=
+kobitonUserName=
+kobitonToken=
+deviceId=
+adoPlanId=
+adoPlanID=
+testOpsProjectId=
+testOpsReleaseId=
+testOpsBuildId=
+qTestDestId=
+qTestDestType=
+testcloudEnvironmentId=
+testcloudEnvironmentID=
+adoTestRunName=
+testcloudTunnel=
